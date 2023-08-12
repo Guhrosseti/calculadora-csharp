@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\calculadora-Csharp\bin\Debug\net7.0\calculadora-Csharp.exe
+C:\Users\lenovo\Desktop\calculadora-Csharp\bin\Debug\net7.0\calculadora-Csharp.deps.json
+C:\Users\lenovo\Desktop\calculadora-Csharp\bin\Debug\net7.0\calculadora-Csharp.runtimeconfig.json
+C:\Users\lenovo\Desktop\calculadora-Csharp\bin\Debug\net7.0\calculadora-Csharp.dll
+C:\Users\lenovo\Desktop\calculadora-Csharp\bin\Debug\net7.0\calculadora-Csharp.pdb
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.dll
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\refint\calculadora-Csharp.dll
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.pdb
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\calculadora-Csharp.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\calculadora-Csharp\obj\Debug\net7.0\ref\calculadora-Csharp.dll
